@@ -18,7 +18,7 @@ while True:
 
     startTime = time.time() #Time Start
     print("-"*40,sep="")
-    inputText = str(input('"%s" \n \n Type the words quickly and accurately\n>>>' % text))
+    inputText = str(input('"\n %s" \n \n Type the words quickly and accurately\n>>>' % text))
     endTime = time.time() #Time Stop
 
 
